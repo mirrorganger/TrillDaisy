@@ -1,1 +1,1 @@
-add_daisy_firmware(NAME App)
+add_daisy_firmware(NAME App DEPENDS TrillDaisy)
